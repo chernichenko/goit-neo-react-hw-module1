@@ -5,6 +5,11 @@
   font-family: sans-serif;
 }
 
+.table thead th {
+  background: black;
+  color: white;
+}
+
 .table th,
 .table td {
   border: 1px solid #333;
