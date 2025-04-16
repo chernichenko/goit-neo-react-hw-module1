@@ -1,0 +1,17 @@
+.table {
+  width: 600px;
+  margin: 30px auto;
+  border-collapse: collapse;
+  font-family: sans-serif;
+}
+
+.table th,
+.table td {
+  border: 1px solid #333;
+  padding: 10px;
+  text-align: center;
+}
+
+.table tr:nth-child(even) {
+  background: #eee;
+}
